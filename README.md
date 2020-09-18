@@ -1,1 +1,1 @@
-# TNM095-AI_for_interactive_media
+# TNM095-AI for interactive media at Linköpings University
